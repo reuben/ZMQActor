@@ -10,7 +10,7 @@ import org.codehaus.groovy.runtime.InvokerHelper;
 /**
  * @author Alex Tkachman, Vaclav Pech
  */
-final class ForwardingDelegate extends GroovyObjectSupport {
+private final class ForwardingDelegate extends GroovyObjectSupport {
 
     private final Object first;
     private final Object second;

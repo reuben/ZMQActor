@@ -10,6 +10,7 @@ book author with a badly-disguised fetish for bulging muscles clad in spandex. Y
 
 So, **what does this mean?**
 It means you get all the robustness, scalability and speed of 0MQ, with an eye-pleasing, easy to maintain syntax.
+For a simple example, see the [GPars' Actor example ported to ZMQActor](https://gist.github.com/1018752) on Gist.
 
 "This is cool!", you say, but be advised, this is the second thing I create using Groovy (the first being Hello World),
 so expect bugs, lots of them.
